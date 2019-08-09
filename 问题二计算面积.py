@@ -109,7 +109,7 @@ def counter1_inch():
 
 
 
-l0=Label(root,text='请输入正方形边长/圆的直径/长方形的宽/三角形的底边长')
+l0=Label(root,text='请输入三角形的底边长/长方形的宽/正方形边长/圆的直径')
 l0.pack()
 e1=Entry(root)
 e1.pack()
